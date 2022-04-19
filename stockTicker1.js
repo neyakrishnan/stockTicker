@@ -10,7 +10,7 @@ const fs = require("fs");
 const path = require("path");
 
 // connection string
-const url = "mongodb+srv://Neya_krishnan:LoveISlove1310101*@cluster0.5cbwn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+const url = "mongodb+srv://Neya_krishnan:stock_ticker1234*@cluster0.5cbwn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 
 // File with which we fill database 
 const dataFile = "companies.csv";
